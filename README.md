@@ -4,7 +4,7 @@
 
 
 
-#JAAL Detection of violators in AlMasaa 
+# JAAL Detection of violators in AlMasaa 
 
 
 ## Demo WebApp
