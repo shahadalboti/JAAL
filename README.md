@@ -14,7 +14,3 @@ https://github.com/shahadalboti/JAAL/assets/109031327/3688f360-2278-4cfe-a4cd-7c
 
 
 
-
-## Demo Pics
-
-### Home page
