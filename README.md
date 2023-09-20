@@ -1,4 +1,6 @@
-# JAAL Detection of violators in AlMasaa 
+# ![saudi-data-ai-authority-logo-6E71CA89A2-seeklogo com](https://github.com/shahadalboti/JAAL/assets/109031327/0591f702-9ed9-49a0-b24d-198741266dd6)![Uploading تنزيل.png…]()
+
+#JAAL Detection of violators in AlMasaa 
 
 
 ## Demo WebApp
